@@ -4,11 +4,14 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
+
+
 Você pode entrar em contato comigo 📫
 
 locj11290916@gmail,com
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ongoca.org%2FLuffy-GIFs-Imgur-3111820.html&psig=AOvVaw21e7Tf_AeQ7B1EvPZ_z2FI&ust=1713619309681000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIDqtcWvzoUDFQAAAAAdAAAAABAp)
+
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ongoca.org%2FLuffy-GIFs-Imgur-3111820.html&psig=AOvVaw21e7Tf_AeQ7B1EvPZ_z2FI&ust=1713619309681000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIDqtcWvzoUDFQAAAAAdAAAAABAp](link)
 
 
 <!--
